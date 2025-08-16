@@ -1,6 +1,9 @@
 # ArmLamp
 An arm that replaces the foot on a common Ikea lamp
 
+This modular and articulated lamp arm replaces the foot on the [Ikea Lampan lamp](https://www.ikea.com/nl/nl/p/lampan-tafellamp-wit-20046988).
+In the original design it features two joints, but thanks to the modularity of the project the arm can be extended or shortened as you wish. Joints can be added or removed as well.
+
 ## License
 
 This project is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License.
